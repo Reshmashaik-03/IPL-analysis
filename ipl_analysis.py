@@ -1,20 +1,3 @@
-"""
-IPL Data Analysis - display plots instead of saving to files
-
-How to use:
-1) Install dependencies:
-   pip install pandas matplotlib seaborn
-
-2) Download dataset from Kaggle:
-   kaggle datasets download -d manasgarg/ipl
-   unzip ipl.zip -d data
-
-3) Run:
-   python ipl_analysis.py
-
-This version will **display the plots one by one** instead of saving them to outputs/plots.
-"""
-
 import os
 import pandas as pd
 import matplotlib.pyplot as plt
