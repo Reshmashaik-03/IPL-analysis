@@ -26,6 +26,6 @@ To identify top run-scorers, top wicket-takers, team performance trends, and exp
 - Python & Pandas proficiency  
 
 🚀 **How to Run**  
-1. Install dependencies:  
 ```bash
 pip install pandas matplotlib seaborn
+python ipl_analysis.py
